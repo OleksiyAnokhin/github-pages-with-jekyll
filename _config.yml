@@ -1,5 +1,6 @@
-title: "Your blog post title"
-date: YYYY-MM-DD
+---
+title: "My awesome blogpost"
+date: 2018-11-10
 
 
 
@@ -15,3 +16,4 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
